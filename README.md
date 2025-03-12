@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Sou uma profissional em ascendência no mercado de Tecnologia da Informação, desenvolvimento de software e liderança. Minha missão é criar soluções inovadoras que otimizam processos e impactam negócios globalmente. Acredito que, por meio da tecnologia e do desenvolvimento de líderes excepcionais, podemos transformar mercados e impulsionar economias.
+Sou uma profissional em ascendência no mercado de Tecnologia da Informação, desenvolvimento de software e liderança. Minha missão é criar soluções inovadoras que otimizam processos e impactam negócios. Acredito que, por meio da tecnologia, podemos transformar mercados e impulsionar economias.
 
 ## 🛠 Tecnologias e Ferramentas
 - **Linguagens:** Python, JavaScript, SQL
@@ -11,7 +11,7 @@ Sou uma profissional em ascendência no mercado de Tecnologia da Informação, d
 - **Ferramentas:** GitHub, Figma
 
 ## 🌍 Impacto e Propósito
-Acredito que a tecnologia tem o poder de transformar o mundo. Meu trabalho não é apenas sobre código, mas sobre inovação, impacto e crescimento sustentável. Cada solução que desenvolvo tem o potencial de otimizar negócios e melhorar a vida das pessoas.
+Acredito que a tecnologia tem o poder de transformar o mundo. Meu trabalho não é apenas sobre código, mas sobre inovação.
 
 ## 📫 Contato
 Se quiser trocar ideias ou colaborar em projetos, me encontre aqui:
