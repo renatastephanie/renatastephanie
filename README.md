@@ -1,4 +1,20 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Olá, eu sou a Renata! 👋
+
+## 🚀 Sobre mim
+
+Sou uma profissional em ascendência no mercado de Tecnologia da Informação, desenvolvimento de software e liderança. Minha missão é criar soluções inovadoras que otimizam processos e impactam negócios globalmente. Acredito que, por meio da tecnologia e do desenvolvimento de líderes excepcionais, podemos transformar mercados e impulsionar economias.
+
+## 🛠 Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript, SQL
+- **Banco de Dados:** PostgreSQL, MySQL
+- **Frameworks:** React, Node.js
+- **Ferramentas:** GitHub, Figma
+
+## 🌍 Impacto e Propósito
+Acredito que a tecnologia tem o poder de transformar o mundo. Meu trabalho não é apenas sobre código, mas sobre inovação, impacto e crescimento sustentável. Cada solução que desenvolvo tem o potencial de otimizar negócios e melhorar a vida das pessoas.
+
+## 📫 Contato
+Se quiser trocar ideias ou colaborar em projetos, me encontre aqui:
 
 ###
 
