@@ -41,7 +41,7 @@ Se quiser trocar ideias ou colaborar em projetos, me encontre aqui:
 ###
 
 <div align="left">
-  <a href="instagram.com/renatastephanie_" target="_blank">
+  <a href="[instagram.com/renatastephanie_](https://www.instagram.com/renatastephanie_/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="discord.com/renatastephanie" target="_blank">
